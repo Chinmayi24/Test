@@ -1,0 +1,72 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.travelpart {
+border:3px solid red;    
+ padding-left:0px;
+padding-right:0px;
+
+}
+
+.travelpart img{
+width:100%;
+}
+
+.travelpart hr {
+    color:chocolate;
+
+}
+
+#trv2 {
+padding-top:10px;
+}
+
+#contact {
+padding-top:10px;
+}
+
+.movie-head {
+font-size:20px;
+border-radius:10px;
+margin-bottom:15px;
+padding:6px 22px;
+}
+
+.movie-head i {
+float:right;
+}
+
+.avr span {
+color:yellow;
+}
+
+.envinews-1 {
+   margin-top:13px;
+}
+#enviornment {
+    background-color:aquamarine;
+}
+
+.envinews-1 h4 {
+    border-bottom: 1px solid white;
+    padding:8px;
+}
+ 
+.envinews-1 img {
+    border-radius:30px;
+}
